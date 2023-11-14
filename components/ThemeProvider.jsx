@@ -1,7 +1,12 @@
 'use client';
 
-import  { ThemeProvider as NextThemesProvider } from 'next-themes';
+import Templete from '@/app/templete';
+import { ThemeProvider as NextThemesProvider } from 'next-themes';
 
 export function ThemeProvider({ children, ...props }) {
-    return <NextThemesProvider {...props}>{children}</NextThemesProvider>;
+    return <NextThemesProvider {...props}>
+        <Templete>
+            {children}
+        </Templete>
+    </NextThemesProvider>;
 }

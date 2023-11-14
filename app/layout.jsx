@@ -7,7 +7,6 @@ import Footer from '@/components/Footer';
 
 // Theme provider
 import { ThemeProvider } from '@/components/ThemeProvider';
-import Templete from './templete';
 
 const inter = Inter({ subsets: ['latin'] });
 

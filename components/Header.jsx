@@ -14,7 +14,7 @@ const Header = () => {
 
     useEffect(() => {
         const scrollPos = window.addEventListener("scroll", () => {
-            window.screenY > 50 ? setHeader(true) : setHeader(false);
+            window.scrollY > 50 ? setHeader(true) : setHeader(false);
         });
 
         // remove event listener
