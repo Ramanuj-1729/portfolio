@@ -2,7 +2,6 @@
 
 import { Button } from "./ui/button";
 import { MoonIcon, SunIcon } from "@radix-ui/react-icons";
-import { Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 
 const ThemeToggler = () => {
