@@ -37,17 +37,17 @@ const qualificationData = [
             {
                 university: 'Chandigarh University',
                 qualification: 'Bachelor of Engineering, Computer Science',
-                years: '2020 - 2024',
+                years: '2020 - Present',
             },
             {
-                university: 'Another University',
-                qualification: 'Master of Arts',
-                years: '2020 - 2024',
+                university: 'Boys Higher Secondary School',
+                qualification: 'Intermediate',
+                years: '2018 - 2019',
             },
             {
-                university: 'Another University',
-                qualification: 'Ph.D in Computer Science',
-                years: '2020 - 2024',
+                university: 'SARASWATI SISHU MANDIR',
+                qualification: 'Matriculation',
+                years: '2016 - 2017',
             },
         ]
     },
@@ -55,19 +55,9 @@ const qualificationData = [
         title: 'experience',
         data: [
             {
-                company: 'ABC Inc',
-                role: 'Software Engineer',
-                years: '2020 - 2024',
-            },
-            {
-                company: 'ABC Inc',
-                role: 'Software Engineer',
-                years: '2020 - 2024',
-            },
-            {
-                company: 'ABC Inc',
-                role: 'Software Engineer',
-                years: '2020 - Present',
+                company: 'FREELANCER',
+                role: 'Full Stack Developer',
+                years: '2022 - Present',
             },
         ]
     },
@@ -78,16 +68,22 @@ const skillData = [
         title: 'skills',
         data: [
             {
-                name: 'HTML, CSS',
+                name: 'Javascript, C++, Python',
             },
             {
-                name: 'Front-end Development',
+                name: 'Full Stack Development',
             },
             {
-                name: 'Javascript, C++',
+                name: 'HTML, CSS, Tailwind CSS',
             },
             {
-                name: 'Backend Development',
+                name: 'React, Next.js, Redux, Node.js, Express.js',
+            },
+            {
+                name: 'MongoDB, MySQL, Firebase',
+            },
+            {
+                name: 'Git, Github',
             },
         ]
     },
@@ -136,7 +132,7 @@ const About = () => {
                                 {/* personal */}
                                 <TabsContent value="personal">
                                     <div className="text-center xl:text-left">
-                                        <h3 className="h3 mb-4">Unmatched Service Quality for Over 10 Years</h3>
+                                        <h3 className="h3 mb-4">Unmatched Service Quality for Over 3 Years</h3>
                                         <p className="subtitle max-w-xl mx-auto xl:mx-0">I specialize in crafting intuitive websites with cutting-edge technology, delivering dynamic and engaging User experiences.</p>
                                         {/* icons */}
                                         <div className="grid xl:grid-cols-2 gap-4 mb-12">

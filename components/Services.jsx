@@ -4,17 +4,17 @@ const servicesData = [
     {
         icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
         title: 'Web Design',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, nam ?'
+        description: 'Elevate your brand with visually stunning web designs that captivate and resonate, creating a lasting online impression.'
     },
     {
         icon: <Blocks size={72} strokeWidth={0.8} />,
         title: 'Web Development',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, nam ?'
+        description: 'Transforming ideas into dynamic, feature-rich websites that stand out in the digital landscape.'
     },
     {
         icon: <Gem size={72} strokeWidth={0.8} />,
-        title: 'App Development',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, nam ?'
+        title: 'Website Management',
+        description: 'Seamless website management solutions, ensuring your online presence thrives while you focus on business growth.'
     },
 ]
 

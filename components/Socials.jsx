@@ -1,26 +1,18 @@
 import Link from "next/link"
-import { RiFacebookFill, RiGithubFill, RiInstagramFill, RiLinkedinFill, RiYoutubeFill } from "react-icons/ri"
+import { RiFacebookFill, RiGithubFill, RiInstagramFill, RiLinkedinFill, RiTwitterFill, RiYoutubeFill } from "react-icons/ri"
 
 const icons = [
   {
-    path: '/',
-    name: <RiYoutubeFill />,
-  },
-  {
-    path: '/',
-    name: <RiLinkedinFill />,
-  },
-  {
-    path: '/',
+    path: 'https://github.com/Ramanuj-1729',
     name: <RiGithubFill />,
   },
   {
-    path: '/',
-    name: <RiFacebookFill />,
+    path: 'https://www.linkedin.com/in/ramanuj-asati-0752311b4/',
+    name: <RiLinkedinFill />,
   },
   {
-    path: '/',
-    name: <RiInstagramFill />,
+    path: 'https://twitter.com/AsatiRamanuj',
+    name: <RiTwitterFill />,
   },
 ]
 
