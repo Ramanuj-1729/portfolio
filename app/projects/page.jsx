@@ -5,60 +5,76 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
     {
-        image: '/work/3.png',
-        category: 'react js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
-    },
-    {
-        image: '/work/4.png',
-        category: 'react js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
-    },
-    {
-        image: '/work/2.png',
-        category: 'next js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
-    },
-    {
         image: '/work/1.png',
         category: 'react js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
-    },
-    {
-        image: '/work/4.png',
-        category: 'react js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
+        name: 'THE CHOSEN FIELD',
+        description: 'EdTech platform designed to reshape the landscape of education by seamlessly integrating technology.',
+        link: 'https://thechosenfield.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/THE-CHOSEN-FIELD'
     },
     {
         image: '/work/2.png',
-        category: 'next js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
+        category: 'mern',
+        name: 'E-Commerce Webapp',
+        description: 'An E-Commerce website project that redefines online shopping with a commitment.',
+        link: 'https://ecommerce-lemon-two-34.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/E-Commerce-A-vertual-try-on-solution'
     },
     {
         image: '/work/3.png',
+        category: 'mern',
+        name: 'Blog Website',
+        description: 'A cutting-edge tech blog website project dedicated to unraveling the mysteries of the digital frontier.',
+        link: 'https://tech-blog-pi-bay.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/Tech-Blog__MERN-Tailwind'
+    },
+    {
+        image: '/work/4.png',
+        category: 'Node js',
+        name: 'Chat Webapp',
+        description: 'A dynamic group chat website designed to bring people together through engaging communication.',
+        link: 'https://g-chat-n0y2.onrender.com/',
+        github: 'https://github.com/Ramanuj-1729/G-Chat'
+    },
+    {
+        image: '/work/5.png',
+        category: 'mern',
+        name: 'OTT Subsription Webapp',
+        description: 'An OTT Subscription WebApp that redefines the way you experience movies and TV shows.',
+        link: 'https://stripe-gateway-one.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/richpanel-stripe-webapp'
+    },
+    {
+        image: '/work/6.png',
         category: 'react js',
-        name: 'Nexa Website',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam.',
-        link: '/',
-        github: '/'
+        name: 'Digital Wall',
+        description: 'Digital wall allows you to write and share your notes, thoughts, blogs, and valuable insights with the world.',
+        link: 'https://digital-wall-gamma.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/digital_wall'
+    },
+    {
+        image: '/work/7.png',
+        category: 'mern',
+        name: 'Apna Helper',
+        description: 'Apna Helper is a website for the people who want help to do their daily basis tasks.',
+        link: 'https://apna-helper.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/Apna_Helper'
+    },
+    {
+        image: '/work/8.png',
+        category: 'javascript',
+        name: 'Calculator',
+        description: 'Calculator for hassle-free and efficient calculations.',
+        link: 'https://calculator-by-ramanuj.netlify.app/',
+        github: 'https://github.com/Ramanuj-1729/calculator'
+    },
+    {
+        image: '/work/9.png',
+        category: 'html css',
+        name: 'Auth Form',
+        description: 'Auth form for simplifying the user authentication process with seamless sign-in and signup forms.',
+        link: 'https://singlepageform.netlify.app/',
+        github: 'https://github.com/Ramanuj-1729/sign-in-sign-up'
     },
 ]
 
