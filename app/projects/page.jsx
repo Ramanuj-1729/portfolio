@@ -76,6 +76,14 @@ const projectData = [
         link: 'https://singlepageform.netlify.app/',
         github: 'https://github.com/Ramanuj-1729/sign-in-sign-up'
     },
+    {
+        image: '/work/10.png',
+        category: 'next js',
+        name: 'Portfolio Website',
+        description: 'A portfolio website project designed to elevate personal or professional brand. ',
+        link: 'https://ramanuj.vercel.app/',
+        github: 'https://github.com/Ramanuj-1729/portfolio'
+    },
 ]
 
 // remove category duplicates
