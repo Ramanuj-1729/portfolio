@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Card, CardHeader } from './ui/card';
-import { Github, Link2Icon } from "lucide-react";
+import { Github, Globe2 } from "lucide-react";
 import { Badge } from "./ui/badge";
 
 const ProjectCard = ({project}) => {
@@ -13,7 +13,7 @@ const ProjectCard = ({project}) => {
                     <Image className="absolute bottom-0 shadow-2xl" src={project.image} width={247} height={250} alt="project image" priority />
                     {/* btn links */}
                     <div className="flex gap-x-4">
-                        <Link href={project.link} target="_blank" className="bg-secondary w-[54px] h-[54px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200"><Link2Icon className="text-white" /></Link>
+                        <Link href={project.link} target="_blank" className="bg-secondary w-[54px] h-[54px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200"><Globe2 className="text-white" /></Link>
                         <Link href={project.github} target="_blank" className="bg-secondary w-[54px] h-[54px] rounded-full flex justify-center items-center scale-0 opacity-0 group-hover:scale-100 group-hover:opacity-100 transition-all duration-200"><Github className="text-white" /></Link>
                     </div>
                 </div>
