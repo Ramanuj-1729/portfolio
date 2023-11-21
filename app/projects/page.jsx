@@ -39,7 +39,7 @@ const projectData = [
     {
         image: '/work/5.png',
         category: 'mern',
-        name: 'OTT Subsription Webapp',
+        name: 'OTT Subscription Webapp',
         description: 'An OTT Subscription WebApp that redefines the way you experience movies and TV shows.',
         link: 'https://stripe-gateway-one.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/richpanel-stripe-webapp'
