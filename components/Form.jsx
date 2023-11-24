@@ -26,7 +26,7 @@ const Form = () => {
         e.preventDefault();
         setLoading(true);
         try {
-            await axios.post(process.env.QUERY_URL, formData);
+            await axios.post(`${process.env.QUERY_URL}`, formData);
             setSuccess(true);
         } catch (error) {
             alert(error);
