@@ -9,7 +9,7 @@ const projectData = [
         category: 'react js',
         name: 'THE CHOSEN FIELD',
         description: 'EdTech platform designed to reshape the landscape of education by seamlessly integrating technology.',
-        link: 'https://thechosenfieldakdni.vercel.app/',
+        link: 'https://thechosenfield.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/THE-CHOSEN-FIELD'
     },
     {
