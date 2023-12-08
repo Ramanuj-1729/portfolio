@@ -15,9 +15,9 @@ const projectData = [
     {
         image: '/work/2.png',
         category: 'mern',
-        name: 'E-Commerce Webapp',
+        name: 'Ecocart',
         description: 'An E-Commerce website project that redefines online shopping with a commitment.',
-        link: 'https://ecommerce-lemon-two-34.vercel.app/',
+        link: 'https://ecocart.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/E-Commerce-A-vertual-try-on-solution'
     },
     {
@@ -25,7 +25,7 @@ const projectData = [
         category: 'mern',
         name: 'Blog Website',
         description: 'A cutting-edge tech blog website project dedicated to unraveling the mysteries of the digital frontier.',
-        link: 'https://tech-blog-pi-bay.vercel.app/',
+        link: 'https://techblogger.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/Tech-Blog__MERN-Tailwind'
     },
     {
@@ -39,17 +39,17 @@ const projectData = [
     {
         image: '/work/5.png',
         category: 'mern',
-        name: 'OTT Subscription Webapp',
+        name: 'OTT Subsription Webapp',
         description: 'An OTT Subscription WebApp that redefines the way you experience movies and TV shows.',
-        link: 'https://stripe-gateway-one.vercel.app/',
+        link: 'https://ottsubscription.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/richpanel-stripe-webapp'
     },
     {
         image: '/work/6.png',
         category: 'react js',
         name: 'Digital Wall',
-        description: 'Digital wall allows you to write and share your notes, thoughts, blogs, and valuable insights with the world.',
-        link: 'https://digital-wall-gamma.vercel.app/',
+        description: 'Digital wall allows you to write and share your notes, thoughts, blogs, and valuable insights with the world',
+        link: 'https://digitalnoteswall.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/digital_wall'
     },
     {
@@ -57,7 +57,7 @@ const projectData = [
         category: 'mern',
         name: 'Apna Helper',
         description: 'Apna Helper is a website for the people who want help to do their daily basis tasks.',
-        link: 'https://apna-helper.vercel.app/',
+        link: 'https://apnahelper.vercel.app/',
         github: 'https://github.com/Ramanuj-1729/Apna_Helper'
     },
     {
