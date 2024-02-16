@@ -55,6 +55,11 @@ const qualificationData = [
         title: 'experience',
         data: [
             {
+                company: 'Evalueserve India',
+                role: 'ITC-Intern',
+                years: '2024 - Present',
+            },
+            {
                 company: 'FREELANCER',
                 role: 'Full Stack Developer',
                 years: '2022 - Present',
