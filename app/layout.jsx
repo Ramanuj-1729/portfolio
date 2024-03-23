@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <link rel='icon' href='/favicon/favicon.ico' />
       </head>
       <body className={outfit.className}>
-        <ThemeProvider attribute="class" defaultTheme="light">
+        <ThemeProvider attribute="class" defaultTheme="dark">
           <Header />
           {children}
           <Footer />

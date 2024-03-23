@@ -73,7 +73,7 @@ const skillData = [
         title: 'skills',
         data: [
             {
-                name: 'Javascript, C++, Python',
+                name: 'Javascript, C++, Python, C#',
             },
             {
                 name: 'Full Stack Development',
@@ -82,7 +82,7 @@ const skillData = [
                 name: 'HTML, CSS, Tailwind CSS',
             },
             {
-                name: 'React, Next.js, Redux, Node.js, Express.js',
+                name: 'React, Next.js, Angular, Redux, Node.js, Express.js',
             },
             {
                 name: 'MongoDB, MySQL, Firebase',
@@ -229,7 +229,7 @@ const About = () => {
                                                 {getData(skillData, "skills").data.map((item, index) => {
                                                     const { name } = item;
                                                     return (
-                                                        <div key={index} className="w-2/4 text-center xl:text-left mx-auto xl:mx-0">
+                                                        <div key={index} className="text-center xl:text-left mx-auto xl:mx-0">
                                                             <div className="font-medium">{name}</div>
                                                         </div>
                                                     );
