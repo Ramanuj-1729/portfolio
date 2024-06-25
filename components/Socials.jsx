@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { RiGithubFill, RiLinkedinFill, RiTwitterFill } from "react-icons/ri"
+import { RiGithubFill, RiLinkedinFill, RiTwitterXFill } from "react-icons/ri"
 
 const icons = [
   {
@@ -7,12 +7,12 @@ const icons = [
     name: <RiGithubFill />,
   },
   {
-    path: 'www.linkedin.com/in/ramanujasati',
+    path: 'https://www.linkedin.com/in/ramanujasati',
     name: <RiLinkedinFill />,
   },
   {
     path: 'https://twitter.com/AsatiRamanuj',
-    name: <RiTwitterFill />,
+    name: <RiTwitterXFill />,
   },
 ]
 
