@@ -56,14 +56,14 @@ const qualificationData = [
         data: [
             {
                 company: 'Evalueserve India',
-                role: 'ITC-Intern',
-                years: '2024 - Present',
+                role: 'Junior Software Engineer',
+                years: 'Aug, 2024 - Present',
             },
             {
-                company: 'FREELANCER',
-                role: 'Full Stack Developer',
-                years: '2022 - Present',
-            },
+                company: 'Evalueserve India',
+                role: 'ITC-Intern',
+                years: 'Feb, 2024 - Jul, 2024',
+            }
         ]
     },
 ];
@@ -82,10 +82,10 @@ const skillData = [
                 name: 'HTML, CSS, Tailwind CSS',
             },
             {
-                name: 'React, Next.js, Angular, Redux, Node.js, Express.js',
+                name: 'React, Next.js, Angular, Redux, Node.js, Express.js, Dotnet',
             },
             {
-                name: 'MongoDB, MySQL, Firebase',
+                name: 'SQL Server, MongoDB, MySQL, Firebase',
             },
             {
                 name: 'Git, Github',
